@@ -1,0 +1,2 @@
+
+enum StatusPedido { PENDENTE, PAGO }

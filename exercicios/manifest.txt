@@ -1,0 +1,215 @@
+JAVA | marcador 149 | topico 1 | MediaSimples.java | 21<hr>Exercício 1: Calculadora de Média Simples
+JAVA | marcador 172 | topico 1 | ConversorTemperatura.java | 17<hr>Exercício 2: Conversor de Temperatura (Celsius para Fahrenheit)
+JAVA | marcador 191 | topico 1 | CalculoSalario.java | 23<hr>Exercício 3: Salário com Desconto do INSS
+JAVA | marcador 216 | topico 1 | Retangulo.java | 21<hr>Exercício 4: Área e Perímetro de um Retângulo
+JAVA | marcador 239 | topico 1 | ConversorTempo.java | 18<hr>Exercício 5: Conversor de Tempo (Segundos para Horas, Minutos e Segundos)
+JAVA | marcador 260 | topico 2 | ParOuImpar.java | 18<hr>Exercício 1: Par ou Ímpar
+JAVA | marcador 280 | topico 2 | Maioridade.java | 22<hr>Exercício 2: Validador de Maioridade
+JAVA | marcador 304 | topico 2 | SituacaoAluno.java | 27<hr>Exercício 3: Situação do Aluno
+JAVA | marcador 333 | topico 2 | MaiorDeTres.java | 25<hr>Exercício 4: O Maior de Três Números
+JAVA | marcador 360 | topico 2 | Triangulos.java | 29<hr>Exercício 5: Classificação de Triângulos
+JAVA | marcador 392 | topico 3 | Tabuada.java | 16<hr>Exercício 1: Tabuada de um Número (for)
+JAVA | marcador 410 | topico 3 | SomatorioMedia.java | 31<hr>Exercício 2: Somatório e Média até Flag de Parada (while)
+JAVA | marcador 443 | topico 3 | ValidacaoSenha.java | 20<hr>Exercício 3: Validação de Senha (while)
+JAVA | marcador 465 | topico 3 | ContagemIntervalo.java | 28<hr>Exercício 4: Contagem de Pares e Ímpares em Intervalo (for)
+JAVA | marcador 495 | topico 3 | Fatorial.java | 18<hr>Exercício 5: Cálculo do Fatorial (for)
+JAVA | marcador 516 | topico 4 | VetorInverso.java | 21<hr>Exercício 1: Armazenamento e Leitura Inversa
+JAVA | marcador 539 | topico 4 | MaiorMenorVetor.java | 32<hr>Exercício 2: Maior, Menor e suas Posições
+JAVA | marcador 573 | topico 4 | MediaNotasVetor.java | 30<hr>Exercício 3: Média da Turma e Alunos Acima da Média
+JAVA | marcador 605 | topico 4 | BuscaLinear.java | 32<hr>Exercício 4: Busca Linear de Elemento
+JAVA | marcador 639 | topico 4 | SeparaParesImpares.java | 43<hr>Exercício 5: Separação em Vetores de Pares e Ímpares
+JAVA | marcador 685 | topico 5 | MatrizGrade.java | 25<hr>Exercício 1: Preenchimento e Exibição de Matriz 3×3
+JAVA | marcador 712 | topico 5 | DiagonalPrincipal.java | 25<hr>Exercício 2: Soma da Diagonal Principal (4×4)
+JAVA | marcador 739 | topico 5 | MaiorElementoMatriz.java | 31<hr>Exercício 3: Maior Elemento e Localização (3×4)
+JAVA | marcador 772 | topico 5 | SomaLinhasMatriz.java | 24<hr>Exercício 4: Soma por Linhas (4×3)
+JAVA | marcador 798 | topico 5 | MatrizTransposta.java | 28<hr>Exercício 5: Matriz Transposta (2×3→3×2)
+JAVA | marcador 863 | topico 6 | Livro.java | 9<hr>Exercício 1: Modelagem da Classe Livro
+JAVA | marcador 863 | topico 6 | Exercicio1Livro.java | 17<hr>Exercício 1: Modelagem da Classe Livro
+JAVA | marcador 891 | topico 6 | Circulo.java | 14<hr>Exercício 2: Classe Circulo e Métodos com Retorno de Valor
+JAVA | marcador 891 | topico 6 | Exercicio2Circulo.java | 16<hr>Exercício 2: Classe Circulo e Métodos com Retorno de Valor
+JAVA | marcador 923 | topico 6 | ContaBancaria.java | 29<hr>Exercício 3: Classe ContaBancaria com Parâmetros e Validações Simples
+JAVA | marcador 923 | topico 6 | Exercicio3ContaBancaria.java | 16<hr>Exercício 3: Classe ContaBancaria com Parâmetros e Validações Simples
+JAVA | marcador 970 | topico 6 | Funcionario.java | 19<hr>Exercício 4: Classe Funcionario com Métodos de Aumento Percentual
+JAVA | marcador 970 | topico 6 | Exercicio4Funcionario.java | 20<hr>Exercício 4: Classe Funcionario com Métodos de Aumento Percentual
+JAVA | marcador 1011 | topico 6 | Aluno.java | 24<hr>Exercício 5: Classe Aluno com Cálculo de Situação Acadêmica
+JAVA | marcador 1011 | topico 6 | Exercicio5Aluno.java | 14<hr>Exercício 5: Classe Aluno com Cálculo de Situação Acadêmica
+JAVA | marcador 1087 | topico 7 | Produto.java | 53<hr>Exercício 1: Classe Produto com Sobrecarga de Construtores
+JAVA | marcador 1087 | topico 7 | Exercicio1Produto.java | 14<hr>Exercício 1: Classe Produto com Sobrecarga de Construtores
+JAVA | marcador 1156 | topico 7 | ContaBancaria.java | 55<hr>Exercício 2: Classe ContaBancaria com Proteção de Saldo
+JAVA | marcador 1156 | topico 7 | Exercicio2ContaBancaria.java | 16<hr>Exercício 2: Classe ContaBancaria com Proteção de Saldo
+JAVA | marcador 1229 | topico 7 | Retangulo.java | 45<hr>Exercício 3: Classe Retangulo com Validação nos Métodos Setters
+JAVA | marcador 1229 | topico 7 | Exercicio3Retangulo.java | 12<hr>Exercício 3: Classe Retangulo com Validação nos Métodos Setters
+JAVA | marcador 1288 | topico 7 | Carro.java | 45<hr>Exercício 4: Classe Carro com Atributo de Leitura Derivada
+JAVA | marcador 1288 | topico 7 | Exercicio4Carro.java | 14<hr>Exercício 4: Classe Carro com Atributo de Leitura Derivada
+JAVA | marcador 1349 | topico 7 | Funcionario.java | 43<hr>Exercício 5: Classe Funcionario com Regras de Negócio no Setter
+JAVA | marcador 1349 | topico 7 | Exercicio5Funcionario.java | 14<hr>Exercício 5: Classe Funcionario com Regras de Negócio no Setter
+JAVA | marcador 1443 | topico 8 | Veiculo.java | 13<hr>Exercício 1: Hierarquia de Veículos e Sobrescrita Básica
+JAVA | marcador 1443 | topico 8 | Carro.java | 15<hr>Exercício 1: Hierarquia de Veículos e Sobrescrita Básica
+JAVA | marcador 1443 | topico 8 | Moto.java | 15<hr>Exercício 1: Hierarquia de Veículos e Sobrescrita Básica
+JAVA | marcador 1443 | topico 8 | Exercicio1Veiculos.java | 10<hr>Exercício 1: Hierarquia de Veículos e Sobrescrita Básica
+JAVA | marcador 1498 | topico 8 | Funcionario.java | 23<hr>Exercício 2: Folha de Pagamento Polimórfica
+JAVA | marcador 1498 | topico 8 | Gerente.java | 14<hr>Exercício 2: Folha de Pagamento Polimórfica
+JAVA | marcador 1498 | topico 8 | Vendedor.java | 16<hr>Exercício 2: Folha de Pagamento Polimórfica
+JAVA | marcador 1498 | topico 8 | Exercicio2FolhaPagamento.java | 21<hr>Exercício 2: Folha de Pagamento Polimórfica
+JAVA | marcador 1574 | topico 8 | Notificacao.java | 15<hr>Exercício 3: Sistema de Notificações
+JAVA | marcador 1574 | topico 8 | EmailNotificacao.java | 11<hr>Exercício 3: Sistema de Notificações
+JAVA | marcador 1574 | topico 8 | SmsNotificacao.java | 11<hr>Exercício 3: Sistema de Notificações
+JAVA | marcador 1574 | topico 8 | PushNotificacao.java | 11<hr>Exercício 3: Sistema de Notificações
+JAVA | marcador 1574 | topico 8 | Exercicio3Notificacoes.java | 16<hr>Exercício 3: Sistema de Notificações
+JAVA | marcador 1640 | topico 8 | FiguraGeometrica.java | 7<hr>Exercício 4: Formas Geométricas com Cálculo de Área
+JAVA | marcador 1640 | topico 8 | Quadrado.java | 13<hr>Exercício 4: Formas Geométricas com Cálculo de Área
+JAVA | marcador 1640 | topico 8 | RetanguloGeometrico.java | 15<hr>Exercício 4: Formas Geométricas com Cálculo de Área
+JAVA | marcador 1640 | topico 8 | CirculoGeometrico.java | 13<hr>Exercício 4: Formas Geométricas com Cálculo de Área
+JAVA | marcador 1640 | topico 8 | Exercicio4Figuras.java | 16<hr>Exercício 4: Formas Geométricas com Cálculo de Área
+JAVA | marcador 1706 | topico 8 | Conta.java | 37<hr>Exercício 5: Contas Bancárias com Sobrescrita de Regra de Saque
+JAVA | marcador 1706 | topico 8 | ContaPoupanca.java | 15<hr>Exercício 5: Contas Bancárias com Sobrescrita de Regra de Saque
+JAVA | marcador 1706 | topico 8 | ContaCorrente.java | 26<hr>Exercício 5: Contas Bancárias com Sobrescrita de Regra de Saque
+JAVA | marcador 1706 | topico 8 | Exercicio5Contas.java | 18<hr>Exercício 5: Contas Bancárias com Sobrescrita de Regra de Saque
+JAVA | marcador 1841 | topico 9 | MetodoPagamento.java | 6<hr>Exercício 1: Meios de Pagamento com Interface (implements)
+JAVA | marcador 1841 | topico 9 | CartaoCredito.java | 25<hr>Exercício 1: Meios de Pagamento com Interface (implements)
+JAVA | marcador 1841 | topico 9 | Pix.java | 18<hr>Exercício 1: Meios de Pagamento com Interface (implements)
+JAVA | marcador 1841 | topico 9 | Exercicio1Pagamentos.java | 19<hr>Exercício 1: Meios de Pagamento com Interface (implements)
+JAVA | marcador 1911 | topico 9 | Forma.java | 20<hr>Exercício 2: Hierarquia de Formas com Classe Abstrata (abstract)
+JAVA | marcador 1911 | topico 9 | Retangulo.java | 16<hr>Exercício 2: Hierarquia de Formas com Classe Abstrata (abstract)
+JAVA | marcador 1911 | topico 9 | Circulo.java | 14<hr>Exercício 2: Hierarquia de Formas com Classe Abstrata (abstract)
+JAVA | marcador 1911 | topico 9 | Exercicio2Formas.java | 15<hr>Exercício 2: Hierarquia de Formas com Classe Abstrata (abstract)
+JAVA | marcador 1978 | topico 9 | Autenticavel.java | 3<hr>Exercício 3: Múltipla Implementação de Interfaces
+JAVA | marcador 1978 | topico 9 | ExportavelJSON.java | 4<hr>Exercício 3: Múltipla Implementação de Interfaces
+JAVA | marcador 1978 | topico 9 | Usuario.java | 15<hr>Exercício 3: Múltipla Implementação de Interfaces
+JAVA | marcador 1978 | topico 9 | Administrador.java | 14<hr>Exercício 3: Múltipla Implementação de Interfaces
+JAVA | marcador 1978 | topico 9 | Exercicio3InterfacesMultiplas.java | 13<hr>Exercício 3: Múltipla Implementação de Interfaces
+JAVA | marcador 2029 | topico 9 | ContaBancaria.java | 36<hr>Exercício 4: Conta Bancária com Regra de Taxação Abstrata
+JAVA | marcador 2029 | topico 9 | ContaCorrente.java | 13<hr>Exercício 4: Conta Bancária com Regra de Taxação Abstrata
+JAVA | marcador 2029 | topico 9 | ContaEmpresarial.java | 13<hr>Exercício 4: Conta Bancária com Regra de Taxação Abstrata
+JAVA | marcador 2029 | topico 9 | Exercicio4Contas.java | 16<hr>Exercício 4: Conta Bancária com Regra de Taxação Abstrata
+JAVA | marcador 2109 | topico 9 | Tributavel.java | 7<hr>Exercício 5: Integração Completa (Classe Abstrata + Interface)
+JAVA | marcador 2109 | topico 9 | Item.java | 18<hr>Exercício 5: Integração Completa (Classe Abstrata + Interface)
+JAVA | marcador 2109 | topico 9 | Eletronico.java | 11<hr>Exercício 5: Integração Completa (Classe Abstrata + Interface)
+JAVA | marcador 2109 | topico 9 | Alimento.java | 7<hr>Exercício 5: Integração Completa (Classe Abstrata + Interface)
+JAVA | marcador 2109 | topico 9 | Exercicio5Tributos.java | 25<hr>Exercício 5: Integração Completa (Classe Abstrata + Interface)
+JAVA | marcador 2207 | topico 10 | Exercicio1DivisaoSegura.java | 27<hr>Exercício 1: Divisão Segura com Múltiplos Blocos catch e finally
+JAVA | marcador 2236 | topico 10 | Exercicio2ConversaoVetor.java | 26<hr>Exercício 2: Conversão de Vetor com NumberFormatException e ArrayIndexOutOfBoundsException
+JAVA | marcador 2264 | topico 10 | SaldoInsuficienteException.java | 21<hr>Exercício 3: Exceção Customizada Verificada (SaldoInsuficienteException)
+JAVA | marcador 2264 | topico 10 | ContaCorrente.java | 27<hr>Exercício 3: Exceção Customizada Verificada (SaldoInsuficienteException)
+JAVA | marcador 2264 | topico 10 | Exercicio3CheckedException.java | 16<hr>Exercício 3: Exceção Customizada Verificada (SaldoInsuficienteException)
+JAVA | marcador 2330 | topico 10 | IdadeInvalidaException.java | 6<hr>Exercício 4: Validação de Idade com Exceção Não Verificada (IdadeInvalidaException)
+JAVA | marcador 2330 | topico 10 | Eleitor.java | 20<hr>Exercício 4: Validação de Idade com Exceção Não Verificada (IdadeInvalidaException)
+JAVA | marcador 2330 | topico 10 | Exercicio4UncheckedException.java | 11<hr>Exercício 4: Validação de Idade com Exceção Não Verificada (IdadeInvalidaException)
+JAVA | marcador 2369 | topico 10 | ProcessamentoDadosException.java | 8<hr>Exercício 5: Encadeamento de Exceções (Exception Chaining)
+JAVA | marcador 2369 | topico 10 | ServicoArquivos.java | 19<hr>Exercício 5: Encadeamento de Exceções (Exception Chaining)
+JAVA | marcador 2369 | topico 10 | Exercicio5ExceptionChaining.java | 13<hr>Exercício 5: Encadeamento de Exceções (Exception Chaining)
+JAVA | marcador 2449 | topico 11 | Exercicio1ArrayList.java | 34<hr>Exercício 1: Gerenciamento de Lista Dinâmica de Tarefas (ArrayList)
+JAVA | marcador 2485 | topico 11 | Exercicio2HashSet.java | 30<hr>Exercício 2: Eliminação de Duplicatas e Operações de Conjunto (HashSet)
+JAVA | marcador 2517 | topico 11 | Exercicio3FrequenciaPalavras.java | 22<hr>Exercício 3: Dicionário de Frequência de Palavras (HashMap)
+JAVA | marcador 2541 | topico 11 | ControleEstoque.java | 38<hr>Exercício 4: Controle de Estoque com Consulta e Atualização (HashMap)
+JAVA | marcador 2541 | topico 11 | Exercicio4EstoqueMap.java | 15<hr>Exercício 4: Controle de Estoque com Consulta e Atualização (HashMap)
+JAVA | marcador 2596 | topico 11 | ProdutoCatalogo.java | 29<hr>Exercício 5: Agrupamento de Objetos por Categoria (ArrayList + HashMap)
+JAVA | marcador 2596 | topico 11 | Exercicio5Agrupamento.java | 31<hr>Exercício 5: Agrupamento de Objetos por Categoria (ArrayList + HashMap)
+JAVA | marcador 2691 | topico 12 | Exercicio1StreamsNomes.java | 17<hr>Exercício 1: Filtragem, Transformação e Ordenação de Nomes
+JAVA | marcador 2710 | topico 12 | ProdutoStream.java | 23<hr>Exercício 2: Estatísticas Numéricas e Operações de Redução
+JAVA | marcador 2710 | topico 12 | Exercicio2EstatisticasStream.java | 34<hr>Exercício 2: Estatísticas Numéricas e Operações de Redução
+JAVA | marcador 2769 | topico 12 | AlunoStream.java | 33<hr>Exercício 3: Agrupamento e Particionamento de Dados
+JAVA | marcador 2769 | topico 12 | Exercicio3AgrupamentoStream.java | 28<hr>Exercício 3: Agrupamento e Particionamento de Dados
+JAVA | marcador 2832 | topico 12 | TransformadorTexto.java | 7<hr>Exercício 4: Interface Funcional Personalizada (@FunctionalInterface)
+JAVA | marcador 2832 | topico 12 | Exercicio4InterfaceFuncional.java | 27<hr>Exercício 4: Interface Funcional Personalizada (@FunctionalInterface)
+JAVA | marcador 2869 | topico 12 | FuncionarioEmpresa.java | 30<hr>Exercício 5: Pipeline com Interfaces Funcionais Nativas (Predicate, Function, Consumer)
+JAVA | marcador 2869 | topico 12 | Exercicio5InterfacesNativas.java | 29<hr>Exercício 5: Pipeline com Interfaces Funcionais Nativas (Predicate, Function, Consumer)
+JAVA | marcador 2963 | topico 13 | Exercicio1EscritaArquivo.java | 42<hr>Exercício 1: Criação e Escrita Segura de Relatório (Path e Files.writeString)
+JAVA | marcador 3007 | topico 13 | Exercicio2ProcessamentoLog.java | 42<hr>Exercício 2: Leitura Linha a Linha com Processamento Funcional (Files.lines())
+JAVA | marcador 3051 | topico 13 | Exercicio3ParserCSV.java | 56<hr>Exercício 3: Parser e Processamento de CSV (Files.readAllLines)
+JAVA | marcador 3109 | topico 13 | Exercicio4VarreduraDiretorios.java | 36<hr>Exercício 4: Varredura e Filtragem de Diretórios (Files.walk())
+JAVA | marcador 3147 | topico 13 | Exercicio5PipelineIO.java | 61<hr>Exercício 5: Pipeline Completo de Transformação e Gravação
+JAVA | marcador 3236 | topico 14 | Exercicio1ThreadsBasicas.java | 40<hr>Exercício 1: Execução Paralela Básica com Runnable e Thread
+JAVA | marcador 3278 | topico 14 | ContadorConcorrente.java | 24<hr>Exercício 2: Condição de Corrida e Sincronização de Recursos
+JAVA | marcador 3278 | topico 14 | Exercicio2Sincronizacao.java | 28<hr>Exercício 2: Condição de Corrida e Sincronização de Recursos
+JAVA | marcador 3332 | topico 14 | TarefaDownload.java | 26<hr>Exercício 3: Processamento em Lote com Pool de Threads (ExecutorService e Callable)
+JAVA | marcador 3332 | topico 14 | Exercicio3ExecutorPool.java | 32<hr>Exercício 3: Processamento em Lote com Pool de Threads (ExecutorService e Callable)
+JAVA | marcador 3392 | topico 14 | Pedido.java | 20<hr>Exercício 4: Pipeline Assíncrono Não Bloqueante com CompletableFuture
+JAVA | marcador 3392 | topico 14 | Exercicio4CompletableFuturePipeline.java | 40<hr>Exercício 4: Pipeline Assíncrono Não Bloqueante com CompletableFuture
+JAVA | marcador 3454 | topico 14 | Exercicio5CombinacaoFutures.java | 51<hr>Exercício 5: Combinação de Chamadas Assíncronas Paralelas (thenCombine)
+JAVA | marcador 3542 | topico 15 | Caixa.java | 19<hr>Exercício 1: Estrutura Genérica de Armazenamento (Caixa<T>)
+JAVA | marcador 3542 | topico 15 | ItemProduto.java | 13<hr>Exercício 1: Estrutura Genérica de Armazenamento (Caixa<T>)
+JAVA | marcador 3542 | topico 15 | Exercicio1CaixaGenerica.java | 23<hr>Exercício 1: Estrutura Genérica de Armazenamento (Caixa<T>)
+JAVA | marcador 3599 | topico 15 | Par.java | 32<hr>Exercício 2: Classe Genérica com Múltiplos Parâmetros (Par<K, V>)
+JAVA | marcador 3599 | topico 15 | Exercicio2ParesGenericos.java | 15<hr>Exercício 2: Classe Genérica com Múltiplos Parâmetros (Par<K, V>)
+JAVA | marcador 3648 | topico 15 | CalculadoraEstatistica.java | 33<hr>Exercício 3: Limite Superior com Bounded Type Parameter (<T Number extends>)
+JAVA | marcador 3648 | topico 15 | Exercicio3BoundedType.java | 25<hr>Exercício 3: Limite Superior com Bounded Type Parameter (<T Number extends>)
+JAVA | marcador 3708 | topico 15 | Figura.java | 6<hr>Exercício 4: Covariância e Leitura com Upper Bounded Wildcard (? extends T)
+JAVA | marcador 3708 | topico 15 | QuadradoFigura.java | 13<hr>Exercício 4: Covariância e Leitura com Upper Bounded Wildcard (? extends T)
+JAVA | marcador 3708 | topico 15 | CirculoFigura.java | 13<hr>Exercício 4: Covariância e Leitura com Upper Bounded Wildcard (? extends T)
+JAVA | marcador 3708 | topico 15 | Exercicio4UpperBoundedWildcard.java | 23<hr>Exercício 4: Covariância e Leitura com Upper Bounded Wildcard (? extends T)
+JAVA | marcador 3765 | topico 15 | Exercicio5LowerBoundedWildcard.java | 26<hr>Exercício 5: Contravariância e Inserção com Lower Bounded Wildcard (? super T)
+POM | marcador 3827 | topico 15 | pom-exemplo.xml | 14<hr>Exercício 5: Simulação de Falhas e Validação de Fluxo Transacional (doThrow e never)
+JAVA | marcador 3843 | topico 16 | ValidadorSenha.java | 11<hr>Exercício 1: Testes Parametrizados e Assertions Básicas
+JAVA | marcador 3843 | topico 16 | ValidadorSenhaTest.java | 28<hr>Exercício 1: Testes Parametrizados e Assertions Básicas
+JAVA | marcador 3884 | topico 16 | SaldoInsuficienteException.java | 6<hr>Exercício 2: Asserção de Exceções e Ciclo de Vida (assertThrows e @BeforeEach)
+JAVA | marcador 3884 | topico 16 | ContaBancariaTeste.java | 22<hr>Exercício 2: Asserção de Exceções e Ciclo de Vida (assertThrows e @BeforeEach)
+JAVA | marcador 3884 | topico 16 | ContaBancariaTest.java | 41<hr>Exercício 2: Asserção de Exceções e Ciclo de Vida (assertThrows e @BeforeEach)
+JAVA | marcador 3955 | topico 16 | UsuarioEntidade.java | 16<hr>Exercício 3: Mocking de Repositório e Verificação de Chamadas (@Mock e verify)
+JAVA | marcador 3955 | topico 16 | UsuarioRepository.java | 5<hr>Exercício 3: Mocking de Repositório e Verificação de Chamadas (@Mock e verify)
+JAVA | marcador 3955 | topico 16 | UsuarioService.java | 15<hr>Exercício 3: Mocking de Repositório e Verificação de Chamadas (@Mock e verify)
+JAVA | marcador 3955 | topico 16 | UsuarioServiceTest.java | 32<hr>Exercício 3: Mocking de Repositório e Verificação de Chamadas (@Mock e verify)
+JAVA | marcador 4026 | topico 16 | EmailSender.java | 4<hr>Exercício 4: Captura de Argumentos com ArgumentCaptor
+JAVA | marcador 4026 | topico 16 | NotificacaoService.java | 14<hr>Exercício 4: Captura de Argumentos com ArgumentCaptor
+JAVA | marcador 4026 | topico 16 | NotificacaoServiceTest.java | 46<hr>Exercício 4: Captura de Argumentos com ArgumentCaptor
+JAVA | marcador 4093 | topico 16 | PagamentoRecusadoException.java | 6<hr>Exercício 5: Simulação de Falhas e Validação de Fluxo Transacional
+JAVA | marcador 4093 | topico 16 | StatusPedido.java | 2<hr>Exercício 5: Simulação de Falhas e Validação de Fluxo Transacional
+JAVA | marcador 4093 | topico 16 | PedidoEntidade.java | 13<hr>Exercício 5: Simulação de Falhas e Validação de Fluxo Transacional
+JAVA | marcador 4093 | topico 16 | GatewayPagamento.java | 4<hr>Exercício 5: Simulação de Falhas e Validação de Fluxo Transacional
+JAVA | marcador 4093 | topico 16 | PedidoRepository.java | 4<hr>Exercício 5: Simulação de Falhas e Validação de Fluxo Transacional
+JAVA | marcador 4093 | topico 16 | ProcessadorPagamentoService.java | 16<hr>Exercício 5: Simulação de Falhas e Validação de Fluxo Transacional
+JAVA | marcador 4093 | topico 16 | ProcessadorPagamentoServiceTest.java | 47<hr>Exercício 5: Simulação de Falhas e Validação de Fluxo Transacional
+JAVA | marcador 4214 | topico 16 | ConnectionFactory.java | 14<hr>Exercício 5: Controle Transacional e Rollback Manual (commit / rollback)
+JAVA | marcador 4230 | topico 17 | Exercicio1InsertId.java | 44<hr>Exercício 1: Inserção com Recuperação de ID Gerado (RETURN_GENERATED_KEYS)
+JAVA | marcador 4276 | topico 17 | ProdutoDTO.java | 27<hr>Exercício 2: Consulta Parametrizada e Mapeamento (ResultSet)
+JAVA | marcador 4276 | topico 17 | Exercicio2SelectResultSet.java | 44<hr>Exercício 2: Consulta Parametrizada e Mapeamento (ResultSet)
+JAVA | marcador 4349 | topico 17 | Exercicio3UpdateDelete.java | 59<hr>Exercício 3: Atualização e Deleção com Linhas Afetadas
+JAVA | marcador 4410 | topico 17 | Exercicio4BatchProcessing.java | 46<hr>Exercício 4: Inserção em Lote (addBatch e executeBatch)
+JAVA | marcador 4458 | topico 17 | Exercicio5TransacaoBancaria.java | 91<hr>Exercício 5: Controle Transacional e Rollback Manual (commit / rollback)
+JAVA | marcador 4559 | topico 17 | GenericDAO.java | 7<hr>Exercício 2: CRUD Completo com Interface Genérica (GenericDAO<T, ID>)
+JAVA | marcador 4587 | topico 17 | ConnectionFactory.java | 13<hr>Exercício 5: Gerenciamento de Transação Unificada entre Múltiplos DAOs
+JAVA | marcador 4602 | topico 18 | Aluno.java | 30<hr>Exercício 1: Estruturação Básica do DAO com Operações de Leitura e Inserção
+JAVA | marcador 4602 | topico 18 | AlunoDAO.java | 5<hr>Exercício 1: Estruturação Básica do DAO com Operações de Leitura e Inserção
+JAVA | marcador 4602 | topico 18 | AlunoDAOImpl.java | 44<hr>Exercício 1: Estruturação Básica do DAO com Operações de Leitura e Inserção
+JAVA | marcador 4602 | topico 18 | Exercicio1DAOApp.java | 21<hr>Exercício 1: Estruturação Básica do DAO com Operações de Leitura e Inserção
+JAVA | marcador 4704 | topico 18 | GenericDAO.java | 13<hr>Exercício 2: CRUD Completo com Interface Genérica (GenericDAO<T, ID>)
+JAVA | marcador 4704 | topico 18 | ProdutoEntidade.java | 33<hr>Exercício 2: CRUD Completo com Interface Genérica (GenericDAO<T, ID>)
+JAVA | marcador 4704 | topico 18 | ProdutoDAOImpl.java | 89<hr>Exercício 2: CRUD Completo com Interface Genérica (GenericDAO<T, ID>)
+JAVA | marcador 4704 | topico 18 | Exercicio2GenericDAOApp.java | 27<hr>Exercício 2: CRUD Completo com Interface Genérica (GenericDAO<T, ID>)
+JAVA | marcador 4868 | topico 18 | Livro.java | 20<hr>Exercício 3: DAO com Consultas Customizadas e Paginação de Resultados
+JAVA | marcador 4868 | topico 18 | LivroDAO.java | 4<hr>Exercício 3: DAO com Consultas Customizadas e Paginação de Resultados
+JAVA | marcador 4868 | topico 18 | LivroDAOImpl.java | 29<hr>Exercício 3: DAO com Consultas Customizadas e Paginação de Resultados
+JAVA | marcador 4868 | topico 18 | Exercicio3PaginacaoApp.java | 22<hr>Exercício 3: DAO com Consultas Customizadas e Paginação de Resultados
+JAVA | marcador 4945 | topico 18 | Cliente.java | 21<hr>Exercício 4: Injeção de Dependência e Desacoplamento da Camada de Serviço
+JAVA | marcador 4945 | topico 18 | ClienteDAO.java | 5<hr>Exercício 4: Injeção de Dependência e Desacoplamento da Camada de Serviço
+JAVA | marcador 4945 | topico 18 | ClienteDAOImpl.java | 38<hr>Exercício 4: Injeção de Dependência e Desacoplamento da Camada de Serviço
+JAVA | marcador 4945 | topico 18 | ClienteService.java | 19<hr>Exercício 4: Injeção de Dependência e Desacoplamento da Camada de Serviço
+JAVA | marcador 4945 | topico 18 | Exercicio4ServiceApp.java | 24<hr>Exercício 4: Injeção de Dependência e Desacoplamento da Camada de Serviço
+JAVA | marcador 5054 | topico 18 | ItemPedido.java | 18<hr>Exercício 5: Gerenciamento de Transação Unificada entre Múltiplos DAOs
+JAVA | marcador 5054 | topico 18 | Pedido.java | 13<hr>Exercício 5: Gerenciamento de Transação Unificada entre Múltiplos DAOs
+JAVA | marcador 5054 | topico 18 | PedidoDAO.java | 4<hr>Exercício 5: Gerenciamento de Transação Unificada entre Múltiplos DAOs
+JAVA | marcador 5054 | topico 18 | ItemPedidoDAO.java | 4<hr>Exercício 5: Gerenciamento de Transação Unificada entre Múltiplos DAOs
+JAVA | marcador 5054 | topico 18 | PedidoDAOImpl.java | 15<hr>Exercício 5: Gerenciamento de Transação Unificada entre Múltiplos DAOs
+JAVA | marcador 5054 | topico 18 | ItemPedidoDAOImpl.java | 17<hr>Exercício 5: Gerenciamento de Transação Unificada entre Múltiplos DAOs
+JAVA | marcador 5054 | topico 18 | VendaService.java | 30<hr>Exercício 5: Gerenciamento de Transação Unificada entre Múltiplos DAOs
+JAVA | marcador 5054 | topico 18 | Exercicio5TransacaoMultiplosDAOsApp.java | 23<hr>Exercício 5: Gerenciamento de Transação Unificada entre Múltiplos DAOs
+JAVA | marcador 5327 | topico 18 | GenericDAO.java | 6<hr>Exercício 10.5: Controle unificado de transação compartilhada entre múltiplos DAOs com commit() e rollback() manuais.
+JAVA | marcador 5380 | topico 18 | StatusFatura.java | 15<hr>Exercício 10.5: Controle unificado de transação compartilhada entre múltiplos DAOs com commit() e rollback() manuais.
+JAVA | marcador 5380 | topico 18 | TelemetriaException.java | 6<hr>Exercício 10.5: Controle unificado de transação compartilhada entre múltiplos DAOs com commit() e rollback() manuais.
+JAVA | marcador 5380 | topico 18 | FalhaCobrancaException.java | 6<hr>Exercício 10.5: Controle unificado de transação compartilhada entre múltiplos DAOs com commit() e rollback() manuais.
+JAVA | marcador 5380 | topico 18 | Plano.java | 15<hr>Exercício 10.5: Controle unificado de transação compartilhada entre múltiplos DAOs com commit() e rollback() manuais.
+JAVA | marcador 5380 | topico 18 | PlanoBasico.java | 16<hr>Exercício 10.5: Controle unificado de transação compartilhada entre múltiplos DAOs com commit() e rollback() manuais.
+JAVA | marcador 5380 | topico 18 | PlanoEnterprise.java | 14<hr>Exercício 10.5: Controle unificado de transação compartilhada entre múltiplos DAOs com commit() e rollback() manuais.
+JAVA | marcador 5380 | topico 18 | Cliente.java | 20<hr>Exercício 10.5: Controle unificado de transação compartilhada entre múltiplos DAOs com commit() e rollback() manuais.
+JAVA | marcador 5380 | topico 18 | Fatura.java | 37<hr>Exercício 10.5: Controle unificado de transação compartilhada entre múltiplos DAOs com commit() e rollback() manuais.
+JAVA | marcador 5380 | topico 18 | TelemetriaConsumo.java | 2<hr>Exercício 10.5: Controle unificado de transação compartilhada entre múltiplos DAOs com commit() e rollback() manuais.
+JAVA | marcador 5380 | topico 18 | GatewayPagamento.java | 4<hr>Exercício 10.5: Controle unificado de transação compartilhada entre múltiplos DAOs com commit() e rollback() manuais.
+JAVA | marcador 5380 | topico 18 | ConnectionFactory.java | 14<hr>Exercício 10.5: Controle unificado de transação compartilhada entre múltiplos DAOs com commit() e rollback() manuais.
+JAVA | marcador 5380 | topico 18 | GenericDAO_2.java | 6<hr>Exercício 10.5: Controle unificado de transação compartilhada entre múltiplos DAOs com commit() e rollback() manuais.
+JAVA | marcador 5380 | topico 18 | FaturaDAOImpl.java | 59<hr>Exercício 10.5: Controle unificado de transação compartilhada entre múltiplos DAOs com commit() e rollback() manuais.
+JAVA | marcador 5380 | topico 18 | IngestaoTelemetriaService.java | 25<hr>Exercício 10.5: Controle unificado de transação compartilhada entre múltiplos DAOs com commit() e rollback() manuais.
+JAVA | marcador 5380 | topico 18 | FaturamentoService.java | 46<hr>Exercício 10.5: Controle unificado de transação compartilhada entre múltiplos DAOs com commit() e rollback() manuais.
+JAVA | marcador 5380 | topico 18 | RelatorioFaturamentoService.java | 24<hr>Exercício 10.5: Controle unificado de transação compartilhada entre múltiplos DAOs com commit() e rollback() manuais.
+JAVA | marcador 5380 | topico 18 | SaaSApplication.java | 84<hr>Exercício 10.5: Controle unificado de transação compartilhada entre múltiplos DAOs com commit() e rollback() manuais.
+JAVA | marcador 5380 | topico 18 | FaturamentoServiceTest.java | 165<hr>Exercício 10.5: Controle unificado de transação compartilhada entre múltiplos DAOs com commit() e rollback() manuais.
+JAVA | marcador 5778 | topico 18 | FaturamentoServiceTest_2.java | 165<hr>Exercício 10.5: Controle unificado de transação compartilhada entre múltiplos DAOs com commit() e rollback() manuais.

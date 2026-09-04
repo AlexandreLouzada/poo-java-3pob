@@ -1,0 +1,4 @@
+
+interface ExportavelJSON {
+    String exportarJSON();
+}

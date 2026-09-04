@@ -1,0 +1,23 @@
+# Java
+*.class
+*.jar
+
+# Dependencias baixadas pelo scripts/compilar_todos.ps1
+lib/
+
+# Build
+target/
+out/
+build/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS
+.DS_Store
+Thumbs.db
