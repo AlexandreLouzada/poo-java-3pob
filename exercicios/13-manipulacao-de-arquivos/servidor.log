@@ -1,0 +1,6 @@
+[INFO] Servidor iniciado na porta 8080
+[ERROR] Falha ao conectar ao banco de dados principal
+[INFO] Tentativa de reconexão agendada
+[ERROR] Timeout de resposta da API de pagamentos
+[WARN] Uso de memória acima de 80%
+[ERROR] Falha de autenticação do usuário admin
