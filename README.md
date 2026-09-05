@@ -7,6 +7,10 @@ Material de referência da disciplina **Programação Orientada a Objetos (Java)
 ```
 aulas/        Aulas 01 a 18 (Markdown) + Roteiro de Tratamento de Exceções
 tutorial/     Tutorial completo de revisão (9 partes, Markdown)
+exemplos/     Estudos de caso (seção 3) dos 23 tutoriais, extraídos com pacotes
+              preservados, um subdiretório por aula (aula-NN/src + out/ compilado)
+solucoes/     Soluções dos exercícios (seção 6) dos 23 tutoriais, um subdiretório
+              por aula (aula-NN/src + out/ compilado)
 exercicios/   ~90 exercícios resolvidos da Lista 3POB FAETERJ, um arquivo .java por classe,
               organizados por tópico (NN-topico/)
   01-estrutura-sequencial
@@ -28,6 +32,36 @@ exercicios/   ~90 exercícios resolvidos da Lista 3POB FAETERJ, um arquivo .java
   17-jdbc-preparedstatement
   18-padrao-dao-connection-factory
   99-projeto-integrador                   (Projeto Integrador SaaS de Faturamento + testes)
+```
+
+## Tutoriais (aulas 01 a 23)
+
+Cada `aulas/TutorialAulaNN.md` traz um estudo de caso (seção 3) e exercícios
+(seção 6). O código dos estudos de caso foi extraído para `exemplos/aula-NN/`
+(uma aplicação com `main` por aula) e os exercícios têm solução em
+`solucoes/aula-NN/`, sempre em arquivos `.java` com pacote. Quando o enunciado
+não define pacote, adota-se a convenção `br.edu.universidade.<dominio>`,
+seguindo o pacote do estudo de caso da própria aula.
+
+Para compilar tudo (exemplos + soluções) e rodar os testes JUnit da aula 21:
+
+```
+powershell -ExecutionPolicy Bypass -File scripts/compilar_tutoriais.ps1
+```
+
+O script baixa automaticamente os jars necessários (JUnit 5 e H2) para uma
+pasta local `lib/`, se estiverem ausentes. Requisitos especiais:
+
+- Aula 08 (solução): reutiliza `ServicoAuditoriaForense` do estudo de caso —
+  compila com `exemplos/aula-08/out` no classpath (feito pelo script).
+- Aula 21 (solução): estrutura Maven `src/main/java` + `src/test/java` com
+  testes JUnit 5 (`proposta-credito-test`).
+- Aula 22: usa JDBC + banco H2 em memória (`h2-2.2.224.jar`).
+
+Para rodar uma aplicação de exemplo ou solução individualmente:
+
+```
+java -cp "exemplos/aula-NN/out;<jars se a aula exigir>" <classe.com.Main>
 ```
 
 ## Compilar e executar
