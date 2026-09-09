@@ -7,6 +7,9 @@ Material de referência da disciplina **Programação Orientada a Objetos (Java)
 ```
 aulas/        Aulas 01 a 18 (Markdown) + Roteiro de Tratamento de Exceções
 tutorial/     Tutorial completo de revisão (9 partes, Markdown)
+explicacoes/  Conteúdo de estudo detalhado das aulas 01 a 23 (um arquivo Markdown
+              por aula, com teoria, exemplos, perguntas de revisão e referências
+              cruzadas para exemplos/ e solucoes/)
 exemplos/     Estudos de caso (seção 3) dos 23 tutoriais, extraídos com pacotes
               preservados, um subdiretório por aula (aula-NN/src + out/ compilado)
 solucoes/     Soluções dos exercícios (seção 6) dos 23 tutoriais, um subdiretório
@@ -63,6 +66,29 @@ Para rodar uma aplicação de exemplo ou solução individualmente:
 ```
 java -cp "exemplos/aula-NN/out;<jars se a aula exigir>" <classe.com.Main>
 ```
+
+## Explicações das aulas (explicacoes/)
+
+A pasta `explicacoes/` concentra o conteúdo de estudo detalhado das aulas 01 a
+23 — um arquivo Markdown por aula (`aula-NN.md`). Cada documento segue o mesmo
+roteiro:
+
+1. **Objetivos de Aprendizagem** — conceitual, técnico, arquitetural e prático;
+2. **Conteúdo Teórico Detalhado** — a teoria da aula em texto corrido, com
+   tabelas de comparação e trechos de código;
+3. **Estudo de Caso Aplicado** — o que o `main` de `exemplos/aula-NN/` faz e
+   como exercita os conceitos da aula;
+4. **Exercícios Propostos e Solução** — resumo das classes resolvidas em
+   `solucoes/aula-NN/`;
+5. **Perguntas de Revisão** — questões conceituais com gabarito;
+6. **Resumo / Pontos-Chave** — as ideias centrais da aula.
+
+As explicações das aulas **01 a 18** são baseadas nos planos de aula
+(`Plano de Aula e Roteiro de Slides` da disciplina, fora do repositório); as
+das aulas **19 a 23** são baseadas nos próprios tutoriais
+(`aulas/TutorialAulaNN.md`), que não possuem plano de aula próprio. Cada página
+traz ainda links para o estudo de caso e os exercícios resolvidos da respectiva
+aula.
 
 ## Compilar e executar
 
