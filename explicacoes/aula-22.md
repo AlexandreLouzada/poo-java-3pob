@@ -292,6 +292,6 @@ Total de ativos ativos recuperados pelo ResultSet: 2
 - **`PreparedStatement`** elimina SQL Injection por pré-compilação e marcadores posicionais `?`, tratando entradas do usuário como dados puros.
 - O padrão **DAO** isola (entidade/domínio -> interface DAO -> implementação JDBC), mantendo SQL longe das camadas de negócio.
 - **`RETURN_GENERATED_KEYS`** captura chaves auto-incrementadas e atualiza o objeto de domínio no Heap.
-- **Transações ACAID** manuais garantem atomicidade: `setAutoCommit(false)`, operações, `commit()`, e `rollback()` no `catch`, restaurando `setAutoCommit(true)` no `finally`.
+- **Transações ACID** manuais garantem atomicidade: `setAutoCommit(false)`, operações, `commit()`, e `rollback()` no `catch`, restaurando `setAutoCommit(true)` no `finally`.
 - **`try-with-resources`** é essencial para evitar vazamento de conexões e descritores (Connection leaks).
 - O estudo de caso e o exercício consolidam persistência corporativa com débito/crédito atômico e cadastro patrimonial com filtro de status.
